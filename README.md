@@ -2,3 +2,4 @@
 hello base
 1
 trade
+mainnet
