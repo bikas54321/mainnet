@@ -5,3 +5,4 @@ trade
 mainnet
 testnet
 twitter
+project
