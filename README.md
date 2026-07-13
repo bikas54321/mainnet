@@ -6,3 +6,4 @@ mainnet
 testnet
 twitter
 project
+bass app
