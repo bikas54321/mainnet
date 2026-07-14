@@ -8,3 +8,4 @@ twitter
 project
 bass app
 og base
+discord
