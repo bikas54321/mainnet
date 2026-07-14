@@ -10,3 +10,4 @@ bass app
 og base
 discord
 trade
+backup
