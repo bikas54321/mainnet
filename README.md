@@ -11,3 +11,4 @@ og base
 discord
 trade
 backup
+input address base
