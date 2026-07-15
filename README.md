@@ -14,3 +14,4 @@ backup
 input address base
 activity
 coinbase
+input
