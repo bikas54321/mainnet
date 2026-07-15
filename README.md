@@ -12,3 +12,4 @@ discord
 trade
 backup
 input address base
+activity
