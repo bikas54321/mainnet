@@ -13,3 +13,4 @@ trade
 backup
 input address base
 activity
+coinbase
