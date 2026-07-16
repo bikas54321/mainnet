@@ -15,3 +15,4 @@ input address base
 activity
 coinbase
 input
+output
