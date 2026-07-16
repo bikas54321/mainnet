@@ -18,3 +18,4 @@ input
 output
 dropship
 hack
+perp fake
