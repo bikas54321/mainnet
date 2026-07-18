@@ -21,3 +21,4 @@ hack
 perp fake
 perp hyper
 portal
+stop loss
