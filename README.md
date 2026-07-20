@@ -24,3 +24,4 @@ portal
 stop loss
 profit
 take
+i win finally
