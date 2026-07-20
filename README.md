@@ -23,3 +23,4 @@ perp hyper
 portal
 stop loss
 profit
+take
