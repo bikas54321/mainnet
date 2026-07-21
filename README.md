@@ -25,3 +25,4 @@ stop loss
 profit
 take
 i win finally
+dragon ball
