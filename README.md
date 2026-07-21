@@ -27,3 +27,4 @@ take
 i win finally
 dragon ball
 attack on titan
+deat note
