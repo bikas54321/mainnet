@@ -49,3 +49,4 @@ i am a best trader
 i am a best trader best
 buy oil 74
 i want 1500 leverig 10x
+base airdrop is coming
