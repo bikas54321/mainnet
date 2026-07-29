@@ -51,3 +51,4 @@ buy oil 74
 i want 1500 leverig 10x
 base airdrop is coming
 i must be get folwers
+i try get more folower
