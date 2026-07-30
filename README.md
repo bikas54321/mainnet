@@ -54,3 +54,4 @@ i must be get folwers
 i try get more folower
 i am best trader
 godfather back
+i dont lnow what  happning
