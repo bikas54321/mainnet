@@ -64,3 +64,4 @@ war is coming
 shibo is coming
 nothing to sell
 everything is sale
+mobile is every
