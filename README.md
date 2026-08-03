@@ -66,3 +66,4 @@ nothing to sell
 everything is sale
 mobile is every
 great day
+bitcoin
